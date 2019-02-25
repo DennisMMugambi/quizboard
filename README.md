@@ -17,11 +17,11 @@ The program should fulfill all of the following objectives.
 
 | Behavior our program should handle:| Input Example, when it receives| Output Example it should return     |
 | :------------- | :----------: | -----------: |
-| | a or -1   | Enter a value above zero  |
-| It alerts the user if a triangle cannot be formed from the measurements, that is if the sum of any two sides is equal to or less than the third  | 2,3,7 | No triangle can be formed |
-| It detects if an equilateral triangle can be formed |6,6,6 |The measurements you've entered form an equilateral triangle|
-| It detects if an isosceles triangle can be formed|10,10,15|The measurements you've entered form an isosceles triangle|
-| It detects if a scalene triangle can be formed|13,14,15|The measurements you've entered form a scalene triangle|
+| |   |  |
+|  |  | |
+|  | ||
+| |
+| |
 ## Known Bugs
 In some instances the form may not return the correct score based upon which answers the users answered correctly.  
 ## Technologies Used
