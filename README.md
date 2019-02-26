@@ -11,17 +11,6 @@ To visit the website follow these steps.
 2.This will automatically take you to the live site.
 To visit this website you simply need to have a stable internet connection, visit a browser I.e Chrome,Safari or Firefox and follow the steps listed above.
 
-## EXPECTED PROGRAM BEHAVIOR( BEHAVIOR DRIVEN DEVELOPMENT)
-The program should fulfill all of the following objectives.
-
-
-| Behavior our program should handle:| Input Example, when it receives| Output Example it should return     |
-| :------------- | :----------: | -----------: |
-| |   |  |
-|  |  | |
-|  | ||
-| |
-| |
 ## Known Bugs
 In some instances the form may not return the correct score based upon which answers the users answered correctly.  
 ## Technologies Used
